@@ -1,4 +1,4 @@
-# 📰 Infynie News --- React News Application
+# 📰 Infynie News - React-Based News Application
 
 **Infynie News** is a modern React-based news application that delivers
 real-time headlines across multiple categories such as Business,
